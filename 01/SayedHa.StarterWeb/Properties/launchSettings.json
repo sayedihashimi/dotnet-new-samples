@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "SayedWeb": {
+    "SayedHa_StarterWeb": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {

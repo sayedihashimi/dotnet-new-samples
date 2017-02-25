@@ -8,7 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-namespace Sayedha.StarterWeb
+namespace SayedHa.StarterWeb
 {
     public class Startup
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Sayedha.StarterWeb.Controllers
+namespace SayedHa.StarterWeb.Controllers
 {
     public class HomeController : Controller
     {

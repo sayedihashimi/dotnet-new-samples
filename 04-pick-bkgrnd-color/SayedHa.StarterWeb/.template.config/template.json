@@ -7,6 +7,7 @@
   "tags": {
     "language": "C#"                       // Specify that this template is in C#.
   },
+  "preferNameDirectory":"true",
   "sourceName": "SayedHa.StarterWeb",       // Will replace the string 'SayedHa.StarterWe' with the value provided via -n.
   "symbols":{
     "CopyrightName": {

@@ -20,6 +20,7 @@ namespace SayedHa.StarterWeb.Controllers
             return View();
         }
 
+#if (EnableContactPage)
         public IActionResult Contact()
         {
             ViewData["Message"] = "Your contact page.";
@@ -27,6 +28,7 @@ namespace SayedHa.StarterWeb.Controllers
             return View();
         }
 
+#endif
         public IActionResult Error()
         {
             return View();

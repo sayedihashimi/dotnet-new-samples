@@ -23,6 +23,26 @@
       "type": "parameter",
       "dataType":"bool",
       "defaultValue": "false"
+    },
+    "BackgroundColor":{
+      "type":"parameter",
+      "datatype": "choice",
+      "defaultValue":"aliceblue",
+      "choices": [
+        {
+          "choice": "aliceblue",
+          "description": "Alice Blue"
+        },
+        {
+          "choice": "dimgray",
+          "description":"dimgray"
+        },
+        {
+          "choice":"skyblue",
+          "description":"sb"
+        }
+      ],
+      "replaces":"skyblue"
     }
   },
 "sources": [
